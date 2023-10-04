@@ -1,0 +1,10 @@
+ASSUMPTIONS MADE FOR THE APPLICATION OF MOSS ET AL. (2006) EQUATIONS
+by Emily Mongold
+8 June 2022
+
+These assumptions were made from a combination of correspondence with Robb Moss, use of the Cliq software, and correspondence with the Cliq team. 
+
+1. the I_C soil behavior type parameter should be calculated, and any layer with I_C > 2.6 is considered not liquefiable.
+
+2. any layer above the water table is considered not liquefiable
+
