@@ -20,7 +20,9 @@ This function has been applied with the following inputs:
 4. Ground motions using pypsha [https://pypi.org/project/pypsha/]
 
 The directory **example** contains jupyter notebooks that run, post-process, and create figures based on an example run of the data.
-paper_figures.ipynb can be run on its own using **full outputs** to re-create figures 
+
+paper_figures.ipynb can be run on its own using **full outputs** to re-create figures
+
 To set up a new simulation, the files should be set up and run in the following order:
 1. make_inputs.py
 2. liq_setup.py
