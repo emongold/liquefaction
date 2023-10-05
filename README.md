@@ -1,4 +1,6 @@
 # liquefaction
+[![DOI](https://zenodo.org/badge/700012083.svg)](https://zenodo.org/badge/latestdoi/700012083)
+
 This project contains python functions to run cpt-based liquefaction calculations on a regional scale.
 
 This package is broken down to multiple steps. 'liquefaction' can be imported as a package with a local download of the folder, and running setup.py. The following python files are within **liquefaction**, defining various functions:
