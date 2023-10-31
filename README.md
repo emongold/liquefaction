@@ -1,7 +1,9 @@
-# liquefaction
+# regional_liquefaction
 [![DOI](https://zenodo.org/badge/700012083.svg)](https://zenodo.org/badge/latestdoi/700012083)
 
-This project contains python functions to run cpt-based liquefaction calculations on a regional scale.
+This project contains python functions to run cpt-based liquefaction calculations on a regional scale. Recreates figures and calculations from the following paper:
+
+Mongold, E. and Baker, J.W. "Probabilistic Regional Liquefaction Hazard and Risk Analysis: A Case Study of Residential Buildings in Alameda, CA" [In review]. 
 
 This package is broken down to multiple steps. 'liquefaction' can be imported as a package with a local download of the folder, and running setup.py. The following python files are within **liquefaction**, defining various functions:
 1. preprocess.py
