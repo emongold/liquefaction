@@ -3,7 +3,7 @@
 
 This project contains python functions to run cpt-based liquefaction calculations on a regional scale. Recreates figures and calculations from the following paper:
 
-Mongold, E. and Baker, J.W. "Probabilistic Regional Liquefaction Hazard and Risk Analysis: A Case Study of Residential Buildings in Alameda, CA" [In review]. 
+Mongold, E. and Baker, J.W. (2024) "Probabilistic Regional Liquefaction Hazard and Risk Analysis: A Case Study of Residential Buildings in Alameda, CA" Natural Hazards Review, 25(4), 04024039, https://doi.org/10.1061/NHREFO.NHENG-2078.
 
 This package is broken down to multiple steps. 'liquefaction' can be imported as a package with a local download of the folder, and running setup.py. The following python files are within **liquefaction**, defining various functions:
 1. preprocess.py
